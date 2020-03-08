@@ -2,7 +2,7 @@
 A R package for Modern Gradient/Newton Boosting for survival outcomes.
 
 
-Installation Instructions
+Installation
 -------------------------
 Start R and then install the 'Xsurf' package with the following commands.
 ```
