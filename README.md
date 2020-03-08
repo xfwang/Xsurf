@@ -1,5 +1,5 @@
 # Xsurf
-## A R package for Modern Gradient/Newton Boosting for survival outcomes.
+A R package for Modern Gradient/Newton Boosting for survival outcomes.
 
 
 Installation Instructions
